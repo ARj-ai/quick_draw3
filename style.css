@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(255, 191, 73);
+}
+
+#score{
+    float: left;
+}
+
+#time{
+    float: right;
+}
+
+#sketch{
+    color: red;
+}
+
+canvas{
+   border-radius: 15px;
+   box-shadow: 3px 3px 3px grey;
+}
